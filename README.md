@@ -1,5 +1,7 @@
 # calculadora
 
  Calculadora com operadores simples usando Javascript.
+ 
+<img src="arquivos/img-readme/calculadora-pronta.jpg">
 
-a href="arquivos/img-readme/calculadira-md.jpg"
+[github pages deste repositório]('https://m1guelzinn.github.io/calculadora/')
